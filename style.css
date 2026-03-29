@@ -175,7 +175,7 @@ span {
 }
 
 
-@media screen and (min-width: 430px) and (max-width: 770px) {
+@media screen and (min-width: 505px) and (max-width: 770px) {
     .container {
         flex-direction: column;
     }
@@ -247,7 +247,7 @@ span {
 
 /* mobile view */
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
 
 
     #main {
